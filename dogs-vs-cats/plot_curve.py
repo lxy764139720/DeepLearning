@@ -22,3 +22,5 @@ def plot(history):
     plt.legend()
 
     plt.figure()
+
+    plt.show()
